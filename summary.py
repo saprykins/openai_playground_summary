@@ -1,3 +1,4 @@
+# basic openAI API connection
 import os
 import openai
 
