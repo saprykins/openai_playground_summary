@@ -1,4 +1,4 @@
-# basic openAI API connection
+# basic openAI API connection for summary
 import os
 import openai
 
